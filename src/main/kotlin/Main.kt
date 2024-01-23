@@ -117,7 +117,7 @@ fun main() {
     //TODO: Llenar la cafetera1 de café.
     cafetera1.llenar()
 
-    //TODO: Vaciar la c    afetera2.
+    //TODO: Vaciar la c          afetera2.
     cafetera2.vaciar()
 
     //TODO: Agregar café a la cafetera2 a la mitad de su capacidad.
